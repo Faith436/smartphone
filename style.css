@@ -1,0 +1,47 @@
+.heading{
+   font-size: 250%;
+   text-align: center;
+   color: blue; 
+}
+body{
+    background-color: burlywood;
+    padding: 0;
+    margin: 0;
+    width: 100wv;
+}
+img{
+    height: 300px;
+}
+
+    
+.feature{
+        background-color: white;
+        padding: 20px;
+        border-radius: 8px;
+        margin: 20px;
+        font-size:larger;
+        font-weight: 900;
+}
+    
+ .image {
+       
+        height: auto;
+        border-radius: 8px;
+}
+h1{
+    background-color: chocolate;
+    
+}
+#element{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.description{
+  text-align: center;
+  font-size: 200%;
+}
+.EXPLANATION{
+    text-align: center;
+    font-size:200%;
+}
